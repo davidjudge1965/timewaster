@@ -1,0 +1,6 @@
+
+
+#Hosts for the testing
+192.168.56.101 twui
+192.168.56.102 twdb
+192.168.56.103 twdb

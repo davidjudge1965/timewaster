@@ -1,0 +1,6 @@
+init_config:
+
+instances:
+  - name: "dd-agent"
+    exact_match: false
+    search_string: ["dd-agent"]
